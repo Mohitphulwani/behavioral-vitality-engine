@@ -1,3 +1,10 @@
+# Author
+Mohit Phulwani Location: Seattle, WA
+
+Credentials: MS in Business Analytics | BA in Economics & Psychology
+
+Focus: Bridging the gap between behavioral economics and cloud-native data science.
+
 # behavioral-vitality-engine
 A Cloud-Native Market Intelligence Engine using Bayesian Decay and K-Means to predict customer vitality ($P-Alive$) and reclaim $287K in at-risk revenue.
 # 🚀 Behavioral Vitality Engine: Stochastic Revenue Recovery
