@@ -7,19 +7,19 @@ Focus: Bridging the gap between behavioral economics and cloud-native data scien
 
 # behavioral-vitality-engine
 A Cloud-Native Market Intelligence Engine using Bayesian Decay and K-Means to predict customer vitality ($P-Alive$) and reclaim $287K in at-risk revenue.
-# 🚀 Behavioral Vitality Engine: Stochastic Revenue Recovery
+#  Behavioral Vitality Engine: Stochastic Revenue Recovery
 ### *Quantifying Brand Memory Decay & Reclaiming $287,137 in At-Risk Portfolio Value*
 
 ---
 
-## 📌 Project Executive Summary
+##  Project Executive Summary
 Traditional e-commerce analytics often fail by treating customer loss as a binary, deterministic event. This framework shifts that perspective to a **Stochastic Survival Model**, hypothesizing that customer engagement is a **Latent State (Vitality)** driven by **Habit Strength** (Frequency) and **Temporal Decay** (Recency).
 
 By analyzing a **2.5 million user portfolio** via Google BigQuery and Python, this project identifies a **700-day "Psychological Cliff"** where brand recall collapses and prescribes an automated roadmap to reclaim **$287,137 in annual revenue** through targeted "Causal Nudges."
 
 ---
 
-## 🧪 Methodology & The "Science"
+##  Methodology & The "Science"
 
 ### 1. Latent State Estimation ($P-Alive$)
 Moving beyond standard RFM, I developed a **Stochastic Vitality Score** using an exponential decay function:
@@ -39,14 +39,14 @@ The engine moves from descriptive to **Prescriptive Analytics**. Each user is pr
 
 ---
 
-## 🛠️ The Technical Stack
+##  The Technical Stack
 * **Data Engineering:** Google BigQuery (SQL) using Window Functions for high-performance event sequencing.
 * **Modeling:** Python (Pandas, NumPy, Scikit-Learn) for latent state estimation and clustering.
 * **BI & UI:** Tableau Executive Command Center featuring a dynamic "Save-List" and "Urgency Slider."
 
 ---
 
-## 📊 Data Schema (`customer_gold_record`)
+##  Data Schema (`customer_gold_record`)
 
 | Field | Type | Description |
 | :--- | :--- | :--- |
@@ -61,7 +61,7 @@ The engine moves from descriptive to **Prescriptive Analytics**. Each user is pr
 
 ---
 
-## 📈 Key Strategic Insights
+## Key Strategic Insights
 * **Revenue Anchor:** **31.22%** of total revenue is anchored in the Champion segment. The strategy shifts from acquisition-heavy spend to **Core Protection**.
 * **Diagnostic Warning:** **26.25%** of historical revenue is currently "Hibernating," quantifying the total financial loss of past inaction.
 * **Strategic Lift:** Targeted interventions for At-Risk VIPs yield a projected **$287,137 annual revenue recovery.**
