@@ -46,20 +46,6 @@ The engine moves from descriptive to **Prescriptive Analytics**. Each user is pr
 
 ---
 
-##  Data Schema (`customer_gold_record`)
-
-| Field | Type | Description |
-| :--- | :--- | :--- |
-| `user_id` | STRING | Primary Key (2.5M Users) |
-| `p_alive` | FLOAT | **Vitality Score:** 0.0–1.0 latent probability of engagement |
-| `total_revenue`| FLOAT | Lifetime historical spend |
-| `recency_days` | INT | Days since last transaction (The Decay Metric) |
-| `total_orders` | INT | Purchase count (The Habit Metric) |
-| `persona_cluster`| STRING | K-Means derived segment (e.g., At-Risk VIP) |
-| `recommended_nudge`| STRING | Automated prescriptive intervention assigned |
-| `retention_priority`| FLOAT | Percentile Rank (0-1) for resource allocation |
-
----
 
 ## Key Strategic Insights
 * **Revenue Anchor:** **31.22%** of total revenue is anchored in the Champion segment. The strategy shifts from acquisition-heavy spend to **Core Protection**.
